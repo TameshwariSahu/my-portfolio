@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tameshwari Sahu - Resume</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#1f2937;
+    background:#f3f4f6;
+    line-height:1.5;
+    padding:32px;
+  }
+  .resume{
+    max-width:860px;
+    margin:0 auto;
+    background:#fff;
+    padding:42px;
+    border:1px solid #e5e7eb;
+    box-shadow:0 16px 40px rgba(15,23,42,.08);
+  }
+  header{
+    border-bottom:3px solid #f2a93b;
+    padding-bottom:18px;
+    margin-bottom:24px;
+  }
+  h1{
+    font-size:34px;
+    letter-spacing:.02em;
+    color:#111827;
+    margin-bottom:6px;
+  }
+  .role{
+    font-size:17px;
+    font-weight:700;
+    color:#b7791f;
+    margin-bottom:8px;
+  }
+  .contact{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px 18px;
+    font-size:13.5px;
+    color:#4b5563;
+  }
+  .contact a{color:#2563eb;text-decoration:none;}
+  section{margin-top:22px;}
+  h2{
+    font-size:15px;
+    color:#111827;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    border-bottom:1px solid #e5e7eb;
+    padding-bottom:5px;
+    margin-bottom:10px;
+  }
+  p, li{font-size:14px;}
+  ul{padding-left:20px;}
+  li{margin-top:5px;}
+  .item{margin-top:12px;}
+  .item-head{
+    display:flex;
+    justify-content:space-between;
+    gap:16px;
+    flex-wrap:wrap;
+    margin-bottom:4px;
+  }
+  .title{font-weight:700;color:#111827;}
+  .meta{font-size:13px;color:#6b7280;font-weight:700;}
+  .tags{
+    display:flex;
+    flex-wrap:wrap;
+    gap:7px;
+    margin-top:8px;
+  }
+  .tag{
+    font-size:12px;
+    background:#f9fafb;
+    border:1px solid #e5e7eb;
+    border-radius:999px;
+    padding:3px 9px;
+    color:#374151;
+  }
+  .skills-grid{
+    display:grid;
+    grid-template-columns:repeat(2, minmax(0, 1fr));
+    gap:12px;
+  }
+  .skill-group strong{display:block;font-size:13.5px;color:#111827;margin-bottom:5px;}
+  @media print{
+    body{background:#fff;padding:0;}
+    .resume{box-shadow:none;border:none;padding:24px;}
+  }
+  @media (max-width:640px){
+    body{padding:14px;}
+    .resume{padding:24px;}
+    h1{font-size:28px;}
+    .skills-grid{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+  <main class="resume">
+    <header>
+      <h1>Tameshwari Sahu</h1>
+      <div class="role">Full Stack Developer</div>
+      <div class="contact">
+        <span>Chhattisgarh, India</span>
+        <span><a href="mailto:Tameshwarisahu961@gmail.com">Tameshwarisahu961@gmail.com</a></span>
+        <span><a href="https://linkedin.com/in/tameshwari-sahu-a0b344225">LinkedIn</a></span>
+        <span><a href="https://github.com/TameshwariSahu">GitHub</a></span>
+      </div>
+    </header>
+
+    <section>
+      <h2>Summary</h2>
+      <p>Full stack developer with hands-on experience building role-based business applications using React.js, Node.js, Express.js, MySQL, REST APIs and JWT authentication. Practical exposure to dashboards, approval workflows, database-driven modules, and AI summarization / RAG concepts through real project work.</p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-group">
+          <strong>Frontend</strong>
+          <p>HTML, CSS, JavaScript, React.js, Vite, React Router, Axios, Tailwind CSS, Bootstrap</p>
+        </div>
+        <div class="skill-group">
+          <strong>Backend</strong>
+          <p>Node.js, Express.js, REST APIs, JWT Auth, bcrypt, API Integration</p>
+        </div>
+        <div class="skill-group">
+          <strong>Database</strong>
+          <p>MySQL, MongoDB</p>
+        </div>
+        <div class="skill-group">
+          <strong>AI / Tools</strong>
+          <p>OpenAI API, AI Summarizer, RAG Concepts, Prompt Handling, Git, GitHub, Postman, VS Code, npm</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <div class="item">
+        <div class="item-head">
+          <div>
+            <div class="title">Apprentice Trainee - Full Stack Development</div>
+            <div class="meta">NMDC Limited</div>
+          </div>
+          <div class="meta">Jan 2026 - Present</div>
+        </div>
+        <ul>
+          <li>Building full-stack web applications with React.js, Node.js, Express.js, MySQL, REST APIs, and authentication flows.</li>
+          <li>Developing role-based dashboards, forms, validations, approval workflows, database modules, and API integrations.</li>
+          <li>Improving debugging, backend logic, database design, and practical AI integration skills through real project work.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <div class="item">
+        <div class="item-head">
+          <div class="title">diesel-allocation-system</div>
+          <div class="meta">Role-based app</div>
+        </div>
+        <ul>
+          <li>Role-based fuel allocation system for vehicle diesel requests, approvals, and tracking.</li>
+          <li>Admin and department employee workflows with protected routes and master data modules.</li>
+          <li>Validations for duplicate departments, registration numbers, meter readings and rejection reasons.</li>
+        </ul>
+        <div class="tags"><span class="tag">React.js</span><span class="tag">Vite</span><span class="tag">Node.js</span><span class="tag">Express.js</span><span class="tag">MySQL</span><span class="tag">JWT</span><span class="tag">bcrypt</span></div>
+      </div>
+
+      <div class="item">
+        <div class="item-head">
+          <div class="title">tour-report-management</div>
+          <div class="meta">In progress</div>
+        </div>
+        <ul>
+          <li>Business workflow app for employee tour report submission, tracking and role-based access.</li>
+          <li>Integrated frontend forms with backend APIs and MySQL, focused on clean UI and validation.</li>
+        </ul>
+        <div class="tags"><span class="tag">React.js</span><span class="tag">Node.js</span><span class="tag">Express.js</span><span class="tag">MySQL</span></div>
+      </div>
+
+      <div class="item">
+        <div class="item-head">
+          <div class="title">ai-summarizer</div>
+          <div class="meta">AI / RAG</div>
+        </div>
+        <ul>
+          <li>AI-based summarizer with OpenAI API integration, key handling and prompt flow.</li>
+          <li>Explored RAG concepts to improve summarization and retrieval from user-provided content.</li>
+        </ul>
+        <div class="tags"><span class="tag">OpenAI API</span><span class="tag">Node.js</span><span class="tag">Express.js</span><span class="tag">React.js</span></div>
+      </div>
+
+      <div class="item">
+        <div class="item-head">
+          <div class="title">full-stack-mini-apps</div>
+          <div class="meta">CRUD</div>
+        </div>
+        <ul>
+          <li>Radha Madhav Bhoga Seva App, Contact Manager App, and Happy Cravings App.</li>
+          <li>CRUD APIs, search, routing, responsive UI and database storage across all three.</li>
+        </ul>
+        <div class="tags"><span class="tag">React.js</span><span class="tag">Node.js</span><span class="tag">Express.js</span><span class="tag">MySQL</span><span class="tag">Tailwind CSS</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="item">
+        <div class="item-head">
+          <div>
+            <div class="title">B.Tech, Computer Science Engineering</div>
+            <div class="meta">Columbia Institute, Raipur</div>
+          </div>
+          <div class="meta">2023 | CGPA 9.0</div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item-head">
+          <div>
+            <div class="title">12th Standard</div>
+            <div class="meta">D.A.V. Public School, Kirandul</div>
+          </div>
+          <div class="meta">2019 | CGPA 7.9</div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item-head">
+          <div>
+            <div class="title">10th Standard</div>
+            <div class="meta">D.A.V. Public School, Kirandul</div>
+          </div>
+          <div class="meta">2017 | CGPA 8.5</div>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
