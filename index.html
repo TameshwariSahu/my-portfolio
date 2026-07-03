@@ -334,6 +334,27 @@ section{padding:88px 0;border-top:1px solid var(--border);}
 .proj-desc li::before{content:'—';position:absolute;left:0;color:var(--text-dim);}
 .proj-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;}
 .proj-tags .tag{font-size:11px;padding:3px 8px;}
+.proj-links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:16px;
+}
+.proj-link{
+  font-family:var(--mono);
+  font-size:11.5px;
+  padding:7px 11px;
+  border-radius:7px;
+  border:1px solid var(--border-strong);
+  color:var(--text);
+  background:var(--surface-2);
+  transition:border-color .2s ease, color .2s ease, transform .2s ease;
+}
+.proj-link:hover{
+  border-color:var(--amber);
+  color:var(--amber);
+  transform:translateY(-2px);
+}
 
 /* ---------- EDUCATION ---------- */
 .edu-list{display:flex;flex-direction:column;gap:0;}
@@ -546,6 +567,10 @@ footer .prompt{color:var(--teal);}
           <span class="tag">React.js</span><span class="tag">Vite</span><span class="tag">Node.js</span>
           <span class="tag">Express.js</span><span class="tag">MySQL</span><span class="tag">JWT</span><span class="tag">bcrypt</span>
         </div>
+        <div class="proj-links">
+          <a class="proj-link" href="https://diesel-management-lovat.vercel.app/" target="_blank" rel="noopener">Live Demo ↗</a>
+          <a class="proj-link" href="https://github.com/TameshwariSahu/diesel_management" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
       </div>
 
       <div class="proj-card">
@@ -559,6 +584,10 @@ footer .prompt{color:var(--teal);}
         </ul>
         <div class="proj-tags">
           <span class="tag">React.js</span><span class="tag">Node.js</span><span class="tag">Express.js</span><span class="tag">MySQL</span>
+        </div>
+        <div class="proj-links">
+          <a class="proj-link" href="https://tour-report-management.vercel.app/" target="_blank" rel="noopener">Live Demo ↗</a>
+          <a class="proj-link" href="https://github.com/TameshwariSahu/Tour-report-management" target="_blank" rel="noopener">GitHub ↗</a>
         </div>
       </div>
 
@@ -574,20 +603,44 @@ footer .prompt{color:var(--teal);}
         <div class="proj-tags">
           <span class="tag">OpenAI API</span><span class="tag">Node.js</span><span class="tag">Express.js</span><span class="tag">React.js</span>
         </div>
+        <div class="proj-links">
+          <a class="proj-link" href="https://doc-summarizer-xi.vercel.app/" target="_blank" rel="noopener">Live Demo ↗</a>
+          <a class="proj-link" href="https://github.com/TameshwariSahu/doc-summarizer" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
       </div>
 
       <div class="proj-card">
         <div class="proj-top">
-          <span class="proj-name">full-stack-mini-apps</span>
-          <span class="proj-badge">CRUD</span>
+          <span class="proj-name">pf-project-frontend</span>
+          <span class="proj-badge">frontend</span>
         </div>
         <ul class="proj-desc">
-          <li>Radha Madhav Bhoga Seva App, Contact Manager App, and Happy Cravings App.</li>
-          <li>CRUD APIs, search, routing, responsive UI and database storage across all three.</li>
+          <li>Responsive frontend project focused on clean interface design and reusable UI sections.</li>
+          <li>Built as a deployed production frontend with routing and polished page structure.</li>
         </ul>
         <div class="proj-tags">
-          <span class="tag">React.js</span><span class="tag">Node.js</span><span class="tag">Express.js</span>
-          <span class="tag">MySQL</span><span class="tag">Tailwind CSS</span>
+          <span class="tag">React.js</span><span class="tag">Vite</span><span class="tag">CSS</span><span class="tag">Vercel</span>
+        </div>
+        <div class="proj-links">
+          <a class="proj-link" href="https://pf-project-frontend.vercel.app/" target="_blank" rel="noopener">Live Demo ↗</a>
+          <a class="proj-link" href="https://github.com/TameshwariSahu/pf-project-frontend" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
+      </div>
+
+      <div class="proj-card">
+        <div class="proj-top">
+          <span class="proj-name">Simon-Game</span>
+          <span class="proj-badge">game</span>
+        </div>
+        <ul class="proj-desc">
+          <li>Interactive memory game built to practice JavaScript event handling and DOM updates.</li>
+          <li>Manages game state, sequence matching, user feedback, and replay flow.</li>
+        </ul>
+        <div class="proj-tags">
+          <span class="tag">HTML</span><span class="tag">CSS</span><span class="tag">JavaScript</span>
+        </div>
+        <div class="proj-links">
+          <a class="proj-link" href="https://github.com/TameshwariSahu/Simon-Game" target="_blank" rel="noopener">GitHub ↗</a>
         </div>
       </div>
 

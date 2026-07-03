@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 5864 >>
+<< /Length 6367 >>
 stream
 /F2 25 Tf
 0.067 0.094 0.153 rg
@@ -93,166 +93,196 @@ BT 1 0 0 1 44.00 498.89 Tm (Apprentice Trainee - Full Stack Development) Tj ET
 BT 1 0 0 1 44.00 485.89 Tm (NMDC Limited | Jan 2026 - Present) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 469.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 471.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 469.89 Tm (Building full-stack web applications with React.js, Node.js, Express.js, MySQL, REST APIs,) Tj ET
+BT 1 0 0 1 56.00 471.89 Tm (Building full-stack web applications with React.js, Node.js, Express.js, MySQL, REST APIs,) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 457.89 Tm (and authentication flows.) Tj ET
+BT 1 0 0 1 56.00 459.89 Tm (and authentication flows.) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 445.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 447.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 445.89 Tm (Developing role-based dashboards, forms, validations, approval workflows, database modules,) Tj ET
+BT 1 0 0 1 56.00 447.89 Tm (Developing role-based dashboards, forms, validations, approval workflows, database modules,) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 433.89 Tm (and API integrations.) Tj ET
+BT 1 0 0 1 56.00 435.89 Tm (and API integrations.) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 421.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 423.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 421.89 Tm (Improving debugging, backend logic, database design, and practical AI integration skills) Tj ET
+BT 1 0 0 1 56.00 423.89 Tm (Improving debugging, backend logic, database design, and practical AI integration skills) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 409.89 Tm (through real project work.) Tj ET
+BT 1 0 0 1 56.00 411.89 Tm (through real project work.) Tj ET
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 380.89 Tm (PROJECTS) Tj ET
+BT 1 0 0 1 44.00 382.89 Tm (PROJECTS) Tj ET
 q
 0.898 0.906 0.922 RG
 1 w
-44 373.89 m 551.28 373.89 l S
+44 375.89 m 551.28 375.89 l S
 Q
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 357.89 Tm (diesel-allocation-system) Tj ET
+BT 1 0 0 1 44.00 359.89 Tm (diesel-allocation-system) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 344.89 Tm (Role-based app) Tj ET
+BT 1 0 0 1 44.00 346.89 Tm (Role-based app) Tj ET
+/F1 9.2 Tf
+0.145 0.388 0.922 rg
+BT 1 0 0 1 44.00 332.89 Tm (Links: Live: diesel-management-lovat.vercel.app | GitHub: github.com/TameshwariSahu/diesel_management) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 328.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 318.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 328.89 Tm (Role-based fuel allocation system for vehicle diesel requests, approvals, and tracking.) Tj ET
+BT 1 0 0 1 56.00 318.89 Tm (Role-based fuel allocation system for vehicle diesel requests, approvals, and tracking.) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 316.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 306.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 316.89 Tm (Admin and department employee workflows with protected routes and master data modules.) Tj ET
+BT 1 0 0 1 56.00 306.89 Tm (Admin and department employee workflows with protected routes and master data modules.) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 304.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 294.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 304.89 Tm (Validations for duplicate departments, registration numbers, meter readings and rejection) Tj ET
+BT 1 0 0 1 56.00 294.89 Tm (Validations for duplicate departments, registration numbers, meter readings and rejection) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 292.89 Tm (reasons.) Tj ET
+BT 1 0 0 1 56.00 282.89 Tm (reasons.) Tj ET
 /F1 9.5 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 44.00 278.89 Tm (Tech: React.js, Vite, Node.js, Express.js, MySQL, JWT, bcrypt) Tj ET
+BT 1 0 0 1 44.00 268.89 Tm (Tech: React.js, Vite, Node.js, Express.js, MySQL, JWT, bcrypt) Tj ET
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 259.89 Tm (tour-report-management) Tj ET
+BT 1 0 0 1 44.00 249.89 Tm (tour-report-management) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 246.89 Tm (In progress) Tj ET
+BT 1 0 0 1 44.00 236.89 Tm (Workflow app) Tj ET
+/F1 9.2 Tf
+0.145 0.388 0.922 rg
+BT 1 0 0 1 44.00 222.89 Tm (Links: Live: tour-report-management.vercel.app | GitHub: github.com/TameshwariSahu/Tour-report-management) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 230.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 208.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 230.89 Tm (Business workflow app for employee tour report submission, tracking and role-based access.) Tj ET
+BT 1 0 0 1 56.00 208.89 Tm (Business workflow app for employee tour report submission, tracking and role-based access.) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 218.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 196.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 218.89 Tm (Integrated frontend forms with backend APIs and MySQL, focused on clean UI and validation.) Tj ET
+BT 1 0 0 1 56.00 196.89 Tm (Integrated frontend forms with backend APIs and MySQL, focused on clean UI and validation.) Tj ET
 /F1 9.5 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 44.00 204.89 Tm (Tech: React.js, Node.js, Express.js, MySQL) Tj ET
+BT 1 0 0 1 44.00 182.89 Tm (Tech: React.js, Node.js, Express.js, MySQL) Tj ET
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 185.89 Tm (ai-summarizer) Tj ET
+BT 1 0 0 1 44.00 163.89 Tm (doc-summarizer) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 172.89 Tm (AI / RAG) Tj ET
+BT 1 0 0 1 44.00 150.89 Tm (AI / RAG) Tj ET
+/F1 9.2 Tf
+0.145 0.388 0.922 rg
+BT 1 0 0 1 44.00 136.89 Tm (Links: Live: doc-summarizer-xi.vercel.app | GitHub: github.com/TameshwariSahu/doc-summarizer) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 156.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 122.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 156.89 Tm (AI-based summarizer with OpenAI API integration, key handling and prompt flow.) Tj ET
+BT 1 0 0 1 56.00 122.89 Tm (AI-based summarizer with OpenAI API integration, key handling and prompt flow.) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 144.89 Tm (-) Tj ET
+BT 1 0 0 1 44.00 110.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 144.89 Tm (Explored RAG concepts to improve summarization and retrieval from user-provided content.) Tj ET
+BT 1 0 0 1 56.00 110.89 Tm (Explored RAG concepts to improve summarization and retrieval from user-provided content.) Tj ET
 /F1 9.5 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 44.00 130.89 Tm (Tech: OpenAI API, Node.js, Express.js, React.js) Tj ET
+BT 1 0 0 1 44.00 96.89 Tm (Tech: OpenAI API, Node.js, Express.js, React.js) Tj ET
 endstream
 endobj
 7 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 1447 >>
+<< /Length 2191 >>
 stream
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 797.89 Tm (full-stack-mini-apps) Tj ET
+BT 1 0 0 1 44.00 797.89 Tm (pf-project-frontend) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 784.89 Tm (CRUD) Tj ET
-/F2 10 Tf
-0.718 0.475 0.122 rg
-BT 1 0 0 1 44.00 768.89 Tm (-) Tj ET
-/F1 10 Tf
-0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 768.89 Tm (Radha Madhav Bhoga Seva App, Contact Manager App, and Happy Cravings App.) Tj ET
+BT 1 0 0 1 44.00 784.89 Tm (Frontend project) Tj ET
+/F1 9.2 Tf
+0.145 0.388 0.922 rg
+BT 1 0 0 1 44.00 770.89 Tm (Links: Live: pf-project-frontend.vercel.app | GitHub: github.com/TameshwariSahu/pf-project-frontend) Tj ET
 /F2 10 Tf
 0.718 0.475 0.122 rg
 BT 1 0 0 1 44.00 756.89 Tm (-) Tj ET
 /F1 10 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 56.00 756.89 Tm (CRUD APIs, search, routing, responsive UI and database storage across all three.) Tj ET
+BT 1 0 0 1 56.00 756.89 Tm (Responsive frontend project focused on clean interface design, routing, reusable UI sections,) Tj ET
+/F1 10 Tf
+0.122 0.161 0.216 rg
+BT 1 0 0 1 56.00 744.89 Tm (and deployed production build.) Tj ET
 /F1 9.5 Tf
 0.122 0.161 0.216 rg
-BT 1 0 0 1 44.00 742.89 Tm (Tech: React.js, Node.js, Express.js, MySQL, Tailwind CSS) Tj ET
+BT 1 0 0 1 44.00 730.89 Tm (Tech: React.js, Vite, CSS, Vercel) Tj ET
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 711.89 Tm (EDUCATION) Tj ET
+BT 1 0 0 1 44.00 711.89 Tm (Simon-Game) Tj ET
+/F2 9.5 Tf
+0.420 0.447 0.502 rg
+BT 1 0 0 1 44.00 698.89 Tm (JavaScript game) Tj ET
+/F1 9.2 Tf
+0.145 0.388 0.922 rg
+BT 1 0 0 1 44.00 684.89 Tm (Links: GitHub: github.com/TameshwariSahu/Simon-Game) Tj ET
+/F2 10 Tf
+0.718 0.475 0.122 rg
+BT 1 0 0 1 44.00 670.89 Tm (-) Tj ET
+/F1 10 Tf
+0.122 0.161 0.216 rg
+BT 1 0 0 1 56.00 670.89 Tm (Interactive memory game built to practice JavaScript event handling, DOM updates, game state,) Tj ET
+/F1 10 Tf
+0.122 0.161 0.216 rg
+BT 1 0 0 1 56.00 658.89 Tm (and user feedback.) Tj ET
+/F1 9.5 Tf
+0.122 0.161 0.216 rg
+BT 1 0 0 1 44.00 644.89 Tm (Tech: HTML, CSS, JavaScript) Tj ET
+/F2 11 Tf
+0.067 0.094 0.153 rg
+BT 1 0 0 1 44.00 613.89 Tm (EDUCATION) Tj ET
 q
 0.898 0.906 0.922 RG
 1 w
-44 704.89 m 551.28 704.89 l S
+44 606.89 m 551.28 606.89 l S
 Q
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 688.89 Tm (B.Tech, Computer Science Engineering) Tj ET
+BT 1 0 0 1 44.00 590.89 Tm (B.Tech, Computer Science Engineering) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 675.89 Tm (Columbia Institute, Raipur | 2023 | CGPA 9.0) Tj ET
+BT 1 0 0 1 44.00 577.89 Tm (Columbia Institute, Raipur | 2023 | CGPA 9.0) Tj ET
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 654.89 Tm (12th Standard) Tj ET
+BT 1 0 0 1 44.00 558.89 Tm (12th Standard) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 641.89 Tm (D.A.V. Public School, Kirandul | 2019 | CGPA 7.9) Tj ET
+BT 1 0 0 1 44.00 545.89 Tm (D.A.V. Public School, Kirandul | 2019 | CGPA 7.9) Tj ET
 /F2 11 Tf
 0.067 0.094 0.153 rg
-BT 1 0 0 1 44.00 620.89 Tm (10th Standard) Tj ET
+BT 1 0 0 1 44.00 526.89 Tm (10th Standard) Tj ET
 /F2 9.5 Tf
 0.420 0.447 0.502 rg
-BT 1 0 0 1 44.00 607.89 Tm (D.A.V. Public School, Kirandul | 2017 | CGPA 8.5) Tj ET
+BT 1 0 0 1 44.00 513.89 Tm (D.A.V. Public School, Kirandul | 2017 | CGPA 8.5) Tj ET
 endstream
 endobj
 xref
@@ -264,10 +294,10 @@ xref
 0000000191 00000 n 
 0000000266 00000 n 
 0000000408 00000 n 
-0000006324 00000 n 
-0000006466 00000 n 
+0000006827 00000 n 
+0000006969 00000 n 
 trailer
 << /Size 9 /Root 1 0 R >>
 startxref
-7965
+9212
 %%EOF
